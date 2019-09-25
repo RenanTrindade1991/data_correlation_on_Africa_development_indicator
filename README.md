@@ -2,9 +2,8 @@
 A code with loops that calculates the correlations between data, and plot variables that have a correlation grather than 0.8
 
 Files:
-1 - África_dev_indicator_cor.R is the crude code, but the loop that takes data from World Bank takes to muchu time to run, so I stored the data in a CSV file to not have to whait for the loop again
-
-2 - Africa.R is the file that use the stored data
+1 - África_dev_indicator_cor.R is the code that makes a loop to download all 816 Africa Development Indicators from World Banck and store this data
+2 - Africa.R is the file that use the stored data to make the analysis
 
 Explanation:
 
