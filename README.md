@@ -4,6 +4,7 @@ A code with loops that calculates the correlations between data, and plot variab
 Files:
 1 - África_dev_indicator_cor.R is the code that makes a loop to download all 816 Africa Development Indicators from World Banck and store this data
 2 - Africa.R is the file that use the stored data to make the analysis
+3 - PLOTS.zip contains all the plots
 
 Explanation:
 
